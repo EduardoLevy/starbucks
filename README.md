@@ -1,4 +1,4 @@
-# # Projeto Starbucks
+# Projeto Starbucks
 
 # Este é um projeto simples de página web estática inspirado no design da Starbucks, criado como trabalho escolar.
 
